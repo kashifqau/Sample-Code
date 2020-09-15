@@ -1,0 +1,577 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 200000,
+				"date": "09/10/2020",
+				"category": "Ketchup",
+				"netamount": 2000000,
+				"travel_time": 12,
+				"avg_amount": 1500000,
+				"lead_time": 6,
+				"scalerank": 9,
+				"type": "small",
+				"name": "Fremont",
+				"state": "Ohio",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Fremont, OHIO",
+					"coordinates":[
+						41.361094,
+						-83.092621
+					]
+				},
+				"target": {
+					"name": "Kent Country, Delaware",
+					"coordinates":[
+						39.222022,
+						-75.534172
+					]
+				}
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.1627, 	
+					86.7816
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 100000,
+				"date": "09/15/2020",
+				"category": "Mustard",
+				"netamount": 100000,
+				"travel_time": 11,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "Muscatine",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Muscatine, Iowa",
+					"coordinates":[
+						41.438480, 	
+						-91.041553
+					]
+				},
+				"target": {
+					"name": "Aon Center, Chicago",
+					"coordinates":[
+						41.885346,
+						-87.621488
+					]	
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 35000,
+				"date": "09/11/2020",
+				"category": "Ketchup",
+				"netamount": 350000,
+				"travel_time": 6,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart California",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Kent Country, Delaware",
+					"coordinates":[
+						39.222022,
+						-75.534172
+					]
+				},
+				"target": {
+					"name": "walmart Virginia",
+					"coordinates":[
+						36.997332,
+						-80.238398
+					]
+				}						
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 55000,
+				"date": "09/13/2020",
+				"category": "Ketchup",
+				"netamount": 550000,
+				"travel_time": 7,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart Arizona",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Kent Country, Delaware",
+					"coordinates":[
+						39.222022,
+						-75.534172
+					]
+				},
+				"target": {
+					"name": "walmart Tennessee",
+					"coordinates":[
+						35.616268,
+						-88.588007
+					]	
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 10000,
+				"date": "09/12/2020",
+				"category": "Ketchup",
+				"netamount": 100000,
+				"travel_time": 6,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart Texas",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Kent Country, Delaware",
+					"coordinates":[
+						39.222022,
+						-75.534172
+					]
+				},
+				"target": {
+					"name": "walmart Montgomery County, Texas",
+					"coordinates":[
+						30.424093,
+						-95.619257
+					]	
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 25000,
+				"date": "09/17/2020",
+				"category": "Ketchup",
+				"netamount": 250000,
+				"travel_time": 7,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart Missouri",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Kent Country, Delaware",
+					"coordinates":[
+						39.222022,
+						-75.534172
+					]
+				},
+				"target": {
+					"name": "walmart Caddo County, Oklahoma",
+					"coordinates":[
+						35.309874,
+						-98.219651
+					]
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 40000,
+				"date": "09/14/2020",
+				"category": "Ketchup",
+				"netamount": 400000,
+				"travel_time": 7,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart Kentucky",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Kent Country, Delaware",
+					"coordinates":[
+						39.222022,
+						-75.534172
+					]
+				},
+				"target": {
+					"name": "walmart Northwest Oklahoma City",
+					"coordinates":[
+						35.554811,
+						-97.776105
+					]
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 15000,
+				"date": "09/16/2020",
+				"category": "Ketchup",
+				"netamount": 150000,
+				"travel_time": 7,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart Florida",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Kent Country, Delaware",
+					"coordinates":[
+						39.222022,
+						-75.534172
+					]
+				},
+				"target": {
+					"name": "walmart El Reno, Oklahoma City",
+					"coordinates":[
+						35.554811,
+						-97.997507
+					]
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 20000,
+				"date": "09/17/2020",
+				"category": "Ketchup",
+				"netamount": 200000,
+				"travel_time": 8,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart Philadelphia",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Kent Country, Delaware",
+					"coordinates":[
+						39.222022,
+						-75.534172
+					]
+				},
+				"target": {
+					"name": "walmart Kingfisher County, Oklahoma",
+					"coordinates":[
+						35.889078,
+						-97.935359
+					]
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 27000,
+				"date": "09/17/2020",
+				"category": "Mustard",
+				"netamount": 27000,
+				"travel_time": 9,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart Virginia",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Aon Center, Chicago",
+					"coordinates":[
+						41.885346,
+						-87.621488
+					]	
+				},
+				"target": {
+					"name": "Walmart Chisago County, Minnesota",
+					"coordinates":[
+						45.549612,
+						-92.883738
+					]	
+				}			
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 23000,
+				"date": "09/18/2020",
+				"category": "Ketchup",
+				"netamount": 23000,
+				"travel_time": 7,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart New Mexico",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Aon Center, Chicago",
+					"coordinates":[
+						41.885346,
+						-87.621488
+					]	
+				},
+				"target": {
+					"name": "Albertson, Meagher County, Montana",
+					"coordinates":[
+						46.284326,
+						-111117642
+					]
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 30000,
+				"date": "09/21/2020",
+				"category": "Ketchup",
+				"netamount": 30000,
+				"travel_time": 8,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart Texas",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Aon Center, Chicago",
+					"coordinates":[
+						41.885346,
+						-87.621488
+					]	
+				},
+				"target": {
+					"name": "Albertson Teton County, Wyoming",
+					"coordinates":[
+						44.117170,
+						-110678189
+					]
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 20000,
+				"date": "09/20/2020",
+				"category": "Ketchup",
+				"netamount": 20000,
+				"travel_time": 9,
+				"avg_amount": 11000,
+				"lead_time": 4,
+				"scalerank": 9,
+				"type": "small",
+				"name": "walmart Colorado",
+				"state": "Iowa",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+				"source": {
+					"name": "Aon Center, Chicago",
+					"coordinates":[
+						41.885346,
+						-87.621488
+					]	
+				},
+				"target": {
+					"name": "Albertson, Flathead Reservation, Polson, MT",
+					"coordinates":[
+						47.455951,
+						-113930142
+					]	
+				}					
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					41.4245,
+					91.0432
+				]
+			}
+		},
+	]
+}
