@@ -1,0 +1,36 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"volume": 200000,
+				"date": "09/10/2020",
+				"category": "Ketchup",
+				"netamount": 2000000,
+				"travel_time": 12,
+				"avg_amount": 1500000,
+				"lead_time": 6,
+				"scalerank": 9,
+				"type": "small",
+				"name": "Fremont",
+				"state": "Ohio",
+				"abbrev": "LUH",
+				"location": "terminal",
+				"gps_code": "VILD",
+				"iata_code": "LUH",
+				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+				"natlscale": 8,
+				"featureclass": "Airport",
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					-83.092621, 	
+					41.361094,
+					-75.534172,
+					39.222022
+				]
+			}
+		}
+}
