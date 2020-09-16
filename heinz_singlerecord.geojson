@@ -21,16 +21,15 @@
 				"iata_code": "LUH",
 				"wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
 				"natlscale": 8,
-				"featureclass": "Airport",
+				"featureclass": "Airport"
 			},
 			"geometry": {
 				"type": "LineString",
 				"coordinates": [
-					-83.092621, 	
-					41.361094,
-					-75.534172,
-					39.222022
+					[-83.092621, 41.361094],
+					[-75.534172,39.222022]
 				]
 			}
 		}
+	]
 }
